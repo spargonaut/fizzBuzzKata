@@ -4,7 +4,7 @@ with numbers divisible by 3 being replaced by 'fizz',
 numbers divisible by 5 being replaced by 'buzz'
 and numbers divisible by 15 being replaced by 'fizzbuzz'
 
-### Suggested Interface:
+**Suggested Interface:**  
 **Signature:** generate(int maxToGenerate)  
 **Return Value Type:** A list of numbers with fizz, buzz and fizzbuzz mixed in at appropriate locations
 
